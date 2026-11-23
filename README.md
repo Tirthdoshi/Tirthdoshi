@@ -6,6 +6,8 @@ Vedic astrology (Jyotisha) teacher, computational researcher, and author based i
 - **CERN Zenodo Paper (DOI):** [10.5281/zenodo.24479752](https://doi.org/10.5281/zenodo.24479752) - *True Citrapaksha vs. Mean Lahiri Ayanamsha Discrepancies Across 15 Parashari Divisional Charts and Jaimini Chara Karaka Assignments (1900-2050)*
 - **Open Reference Dataset:** [Tirthdoshi/jyotisha-reference-dataset](https://github.com/Tirthdoshi/jyotisha-reference-dataset) (27 Nakshatras, 108 Padas, 151-year NASA JPL DE421 Ayanamsha Benchmark, 15 Shodashavarga Specs, 12 Bhava Karakas)
 - **Published Book:** *Karaka: The Hand of God in Astrology* (2nd ed., ISBN `979-8163163182`, [Open Library OL46537512W](https://openlibrary.org/works/OL46537512W/K%C4%81raka) | [Amazon Paperback](https://www.amazon.com/dp/B0HNLYSPYK))
+- **Podcast - The Tantric Astro Podcast:** [Spotify](https://open.spotify.com/show/4kv6hblOZI9lRsBjkzQZcc) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-tantric-astro-podcast/id6838476086) | [Pocket Casts](https://pca.st/9avhi5i9)
+- **Hugging Face Dataset:** [tirthdos/jyotisha-reference-dataset](https://huggingface.co/datasets/tirthdos/jyotisha-reference-dataset)
 
 ## Free Browser-Based Vedic Astrology Calculators (Zero Login)
 All **26** calculators run directly in the browser on [tantricastro.com/calculators](https://www.tantricastro.com/calculators/):
@@ -24,11 +26,17 @@ All **26** calculators run directly in the browser on [tantricastro.com/calculat
 ## Verified Official Profiles
 - Website: https://www.tantricastro.com/
 - About: https://www.tantricastro.com/about-us/
+- Spotify Podcast: https://open.spotify.com/show/4kv6hblOZI9lRsBjkzQZcc
+- Apple Podcasts: https://podcasts.apple.com/us/podcast/the-tantric-astro-podcast/id6838476086
+- Pocket Casts: https://pca.st/9avhi5i9
+- YouTube: https://www.youtube.com/@TantricAstro
 - ORCID: https://orcid.org/0009-0009-0363-5806
 - CERN Zenodo DOI: https://doi.org/10.5281/zenodo.24479752
+- Hugging Face: https://huggingface.co/tirthdos
+- Hugging Face Dataset: https://huggingface.co/datasets/tirthdos/jyotisha-reference-dataset
 - Open Library Author: https://openlibrary.org/authors/OL16789655A/Tirth_Doshi
 - Goodreads Author: https://www.goodreads.com/author/show/45938913.Tirth_Doshi
 - Amazon Author: https://www.amazon.com/author/tirthdoshi
-- YouTube: https://www.youtube.com/@TantricAstro
+- Book (Karaka, ISBN 979-8163163182): https://www.amazon.com/dp/B0HNLYSPYK
 - Pinterest: https://www.pinterest.com/tantricastro/
 - Reddit Community: https://www.reddit.com/r/TantricAstrology/
