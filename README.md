@@ -4,6 +4,7 @@ Vedic astrology (Jyotisha) teacher, computational researcher, and author based i
 
 ## Open-Access Research & Datasets
 - **CERN Zenodo Paper (DOI):** [10.5281/zenodo.24479752](https://doi.org/10.5281/zenodo.24479752) - *True Citrapaksha vs. Mean Lahiri Ayanamsha Discrepancies Across 15 Parashari Divisional Charts and Jaimini Chara Karaka Assignments (1900-2050)*
+- **Official MCP Server (Claude / Cursor / AI Agents):** [Tirthdoshi/tantric-astro-mcp](https://github.com/Tirthdoshi/tantric-astro-mcp) (7 True Citrapaksha Jyotisha tools: D1-D144 Vargas, Jaimini Chara Karakas, Ishta Devata, Arudha Lagna, Vimshottari Dasha & Birth Panchang)
 - **Open Reference Dataset:** [Tirthdoshi/jyotisha-reference-dataset](https://github.com/Tirthdoshi/jyotisha-reference-dataset) (27 Nakshatras, 108 Padas, 151-year NASA JPL DE421 Ayanamsha Benchmark, 15 Shodashavarga Specs, 12 Bhava Karakas)
 - **Published Book:** *Karaka: The Hand of God in Astrology* (2nd ed., ISBN `979-8163163182`, [Open Library OL46537512W](https://openlibrary.org/works/OL46537512W/K%C4%81raka) | [Amazon Paperback](https://www.amazon.com/dp/B0HNLYSPYK))
 - **Podcast - The Tantric Astro Podcast:** [Spotify](https://open.spotify.com/show/4kv6hblOZI9lRsBjkzQZcc) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-tantric-astro-podcast/id6838476086) | [Pocket Casts](https://pca.st/9avhi5i9)
